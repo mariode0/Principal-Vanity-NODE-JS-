@@ -105,10 +105,15 @@ If you find this tool useful, consider supporting the development:
 
 **ICP Address:**
 ```
+6bd3a7d25e068a1cbe59dc4abfe159b1076df36bc6d38133137597a11ebdb34b
+```
+
+**Principal ID:**
+```
 aaaaa-crxnt-c36hw-6rdud-wyycr-xsycr-kbbag-46qfe-77wr5-6g237-aqe
 ```
 
-**Bitcoin Address:**
+**BTC Address:**
 ```
 bc1pxew705whthh8e46yeamr66dxkjhgmtwkvt7l0sc0teskahwm343sxck2r6
 ```
