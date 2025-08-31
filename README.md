@@ -98,3 +98,19 @@ Typical performance: 100-1000 attempts per second depending on system.
 - Private keys are derived from mnemonics but not stored
 - This tool is for educational and development purposes
 - Always verify generated addresses before using them for real transactions
+
+## Donate
+
+If you find this tool useful, consider supporting the development:
+
+**ICP Address:**
+```
+aaaaa-crxnt-c36hw-6rdud-wyycr-xsycr-kbbag-46qfe-77wr5-6g237-aqe
+```
+
+**Bitcoin Address:**
+```
+bc1pxew705whthh8e46yeamr66dxkjhgmtwkvt7l0sc0teskahwm343sxck2r6
+```
+
+
